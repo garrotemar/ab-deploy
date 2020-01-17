@@ -1,3 +1,4 @@
 <?php
- echo "Hello Developer, This is VERSION 2.0 - BLUE SCREEN ------   My Pod IP is : " .$_SERVER['SERVER_ADDR'];
+ echo "<body style='background-color:green'>";
+ echo "Hello Guys, This is VERSION 1.0 - GREEN SCREEN ------   My Pod IP is : " .$_SERVER['SERVER_ADDR'];
 ?>
